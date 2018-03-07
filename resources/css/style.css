@@ -1,0 +1,41 @@
+html {
+  text-align: center;
+  font-family: Helevetica;
+  color: black;
+}
+.header {
+  font-size: 18px;
+  color: white;
+  background-image: url("../images/background.png");
+  background-position: center;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+a {
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+div.contact h2 {
+  font-size: 23px;
+  color: white;
+  background-image: url("../images/background.png");
+  background-position: center;
+}
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
